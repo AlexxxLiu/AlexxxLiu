@@ -1,9 +1,1 @@
-### Hi there 👋 I'm xxx
-
-- 🔭 目前在做:...
-- 🌱 正在学习:...
-- 📫 联系我:...
-
-### 📊 我的语言统计
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&langs_count=10)
+### Hi there 👋 I'm Alex 
